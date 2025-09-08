@@ -1,4 +1,4 @@
-# AFMotor R4 Compatible Library
+# AFMotor R4 Compatible Library 
 
 A drop-in replacement for the Adafruit Motor Shield V1 library that works with Arduino R4 WiFi and other non-AVR boards.
 
